@@ -49,17 +49,17 @@ The **Peacock Flare** site skin is a lush, dark-themed interface for [Archive of
   <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile4.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshots/screenshot_mobile5.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile5.jpg" width="30%" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile6.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshots/screenshot_mobile7.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile7.jpg" width="30%" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile8.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshots/screenshot_mobile9.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile9.jpg" width="30%" />
 </p>
 </details>
 
