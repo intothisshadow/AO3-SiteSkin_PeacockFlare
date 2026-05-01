@@ -5,7 +5,7 @@ The **Peacock Flare** site skin is a lush, dark-themed interface for [Archive of
 **Author:** intothisshadow  
 **Version:** 1.0.0  
 **AO3 instructions:**   
-**GitHub:** https://github.com/intothisshadow/  
+**GitHub:** https://github.com/intothisshadow/AO3-SiteSkin_PeacockFlare  
 **Website:** https://www.so-obsessed.com
 
 ## Screenshots
