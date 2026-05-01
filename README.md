@@ -13,43 +13,43 @@ The **Peacock Flare** site skin is a lush, dark-themed interface for [Archive of
 <details>
 <summary>Desktop</summary>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_desktop1.jpg" width="48%" alt="Front page 1" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_desktop1.jpg" width="48%" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_desktop2.jpg" width="48%" alt="Front page 2" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_desktop2.jpg" width="48%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_desktop3.jpg" width="48%" alt="Recent" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_desktop3.jpg" width="48%" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_desktop4.jpg" width="48%" alt="Search" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_desktop4.jpg" width="48%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_desktop5.jpg" width="48%" alt="User's Works" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_desktop5.jpg" width="48%" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_desktop6.jpg" width="48%" alt="Work Page" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_desktop6.jpg" width="48%" />
  </p>
  <p>
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_desktop7.jpg" width="48%" alt="Work Page" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_desktop7.jpg" width="48%" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_desktop8.jpg" width="48%" alt="Work Page" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_desktop8.jpg" width="48%" />
 </p>
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_desktop9.jpg" width="48%" alt="Work Page" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_desktop9.jpg" width="48%" />
 </p>
 </details>
 
 <details>
 <summary>Mobile</summary>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile1.jpg" width="30%" alt="Front page" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_mobile1.jpg" width="30%" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile2.jpg" width="30%" alt="User's Work Page" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_mobile2.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile3.jpg" width="30%" alt="Recent" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_mobile3.jpg" width="30%" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile4.jpg" width="30%" alt="Front Page 2" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_mobile4.jpg" width="30%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshots/screenshot_mobile5.jpg" width="30%" alt="Work page" />
+  <img src="https://raw.githubusercontent.com/intothisshadow/AO3-SiteSkin_PeacockFlare/refs/heads/main/screenshot_mobile5.jpg" width="30%"" alt="Work page"" />
 </p>
 </details>
 
